@@ -6,8 +6,8 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/correa0105/ProjetoFinal-CursoBootstrap?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/correa0105/ProjetoFinal-CursoBootstrap?style=for-the-badge)
 
-<img src="./assets/img/exemplo1.png" alt="Exemplo do Projeto">
-<img src="./assets/img/exemplo2.png" alt="Exemplo do Projeto">
+<img src="./assets/img/exemplo1.PNG" alt="Exemplo do Projeto">
+<img src="./assets/img/exemplo2.PNG" alt="Exemplo do Projeto">
 
 # ☕ Descrição do Projeto
 
